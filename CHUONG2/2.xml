@@ -1,0 +1,26 @@
+<students>
+  <student>
+    <masinhvien>2345</masinhvien>
+    <tensinhvien>Nguyễn Văn A</tensinhvien>
+    <namsinh>2005</namsinh>
+    <lop>12A1</lop>
+    <gioitinh>Nam</gioitinh>
+  </student>
+  <student>
+    <masinhvien>2346</masinhvien>
+    <tensinhvien>Nguyễn Văn B</tensinhvien>
+    <namsinh>2005</namsinh>
+    <lop>12A5</lop>
+    <gioitinh>Nam</gioitinh>
+  </student>
+  <student>
+    <masinhvien>2347</masinhvien>
+    <tensinhvien>Nguyễn Thị C</tensinhvien>
+    <namsinh>2005</namsinh>
+    <lop>12A2</lop>
+    <gioitinh>Nữ</gioitinh>
+  </student>
+</students>
+     
+     
+     
