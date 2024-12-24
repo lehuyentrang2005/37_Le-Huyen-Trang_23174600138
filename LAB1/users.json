@@ -1,0 +1,5 @@
+[
+    {"name": "Nguyen Van A", "age":30, "address": "Hanoi"},
+    {"name": "Tran Thi C", "age":24, "address": "HCM City"},
+    {"name": "Le thi B", "age":39, "address": "Nam Dinh" }
+]
